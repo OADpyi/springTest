@@ -4,7 +4,7 @@ package ke.xinxin;
  * Hello world!
  *
  */
-public class Appss 
+public class Appss1 
 {
     public static void main( String[] args )
     {
@@ -19,7 +19,7 @@ public class Appss
         
         System.out.println("hahahaha");
         
-        System.out.println("kkkkkkk");
+        
         
     }
 }
