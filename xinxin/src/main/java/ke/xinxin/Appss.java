@@ -4,7 +4,7 @@ package ke.xinxin;
  * Hello world!
  *
  */
-public class Apps 
+public class Appss 
 {
     public static void main( String[] args )
     {
