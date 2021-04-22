@@ -21,8 +21,6 @@ public class Appss2
         
         System.out.println("kkkkkkk");
         
-        
-        
-        System.out.println("I am denghao");
+        System.out.println("I am jiangpeng");
     }
 }
